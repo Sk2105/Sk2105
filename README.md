@@ -1,11 +1,11 @@
 ## Hi there, I'm Sachin Kumar! 👋
 
-Welcome to my GitHub profile! I'm an Android developer and storyteller from Supaul, Bihar, India. Inspired by the golden sunrises of my hometown, I embrace each day as a new opportunity, engaging in projects that ignite my passion for technology.
+Welcome to my GitHub profile! I'm an Android and Web developer from Supaul, Bihar, India. Inspired by the golden sunrises of my hometown, I embrace each day as a new opportunity, engaging in projects that ignite my passion for technology.
 
 ### 🌱 About Me
 
 - **Location:** Supaul, Bihar, India
-- **Interests:** My diverse interests include coding, storytelling, exploring new technologies, and sharing knowledge. I value collaboration and the exchange of ideas.
+- **Interests:** My diverse interests include coding, exploring new technologies, and sharing knowledge. I value collaboration and the exchange of ideas.
 - **Hobbies:** In my free time, I enjoy reading, writing, and exploring street food, which inspires my work.
 
 My love for literature motivates me to weave narratives through code. I believe in perseverance and self-belief, qualities that help me tackle challenges as a developer and storyteller.
