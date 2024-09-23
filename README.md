@@ -13,22 +13,22 @@ My love for literature motivates me to weave narratives through code. I believe 
 ## 💻 Technologies & Skills
 
 - **Programming Languages:** 
-  - **JavaScript** for web development.
-  - **Python** for data science and automation.
-  - **Java** as a foundational language.
-  - **HTML/CSS** for creating stunning web interfaces.
-  - **Kotlin** for modern Android development.
-  - **SQL** for effective database management.
+  - **JavaScript** 
+  - **Python**
+  - **Java** 
+  - **HTML/CSS**
+  - **Kotlin**
+  - **SQL** 
 
 - **Frameworks & Libraries:**
-  - **React** for building efficient user interfaces.
-  - **Node.js** for seamless server-side programming.
-  - **Jetpack Compose** for beautiful Android UIs.
+  - **ReactJs** 
+  - **Node.js**
+  - **Jetpack Compose** 
 
 - **Tools & Platforms:**
-  - **Git & GitHub** for version control and project collaboration.
-  - **Android Studio** as my primary development environment.
-  - **Visual Studio Code** as my preferred text editor.
+  - **Git & GitHub** 
+  - **Android Studio** 
+  - **Visual Studio Code**
 
 ## 🌟 Projects
 
