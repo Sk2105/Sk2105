@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">A passionate Android developer and Web developer from India</h3>
 
+Welcome to my GitHub profile! I'm an Android and Web developer from Supaul, Bihar, India. Inspired by the golden sunrises of my hometown, I embrace each day as a new opportunity, engaging in projects that ignite my passion for technology.
+
+### 🌱 About Me
+
+- **Location:** Supaul, Bihar, India
+- **Interests:** My diverse interests include coding, exploring new technologies, and sharing knowledge. I value collaboration and the exchange of ideas.
+- **Hobbies:** I enjoy reading, writing, and exploring street food in my free time, which inspires my work.
+
+My love for literature motivates me to weave narratives through code. I believe in perseverance and self-belief, qualities that help me tackle challenges as a developer and storyteller.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk2105&label=Profile%20views&color=0e75b6&style=flat" alt="sk2105" /> </p>
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 💬 Ask me about **Android development, jetpack compose, SQL , and react js**
+- 💬 Ask me about **Android development, jetpack compose, SQL, Web development, and react js**
 
 - 📫 How to reach me **s.kumar911784@gmail.com**
 
