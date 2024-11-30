@@ -1,6 +1,6 @@
 # 💫About Me :
-🌱 I’m currently learning Jetpack Compose and Spring boot
-💬 Ask me about Android development, jetpack compose, SQL, and React js
+🌱 I’m currently learning Jetpack Compose and Spring Boot </br>
+💬 Ask me about Android development, jetpack compose, SQL, and React js </br>
 📫 How to reach me s.kumar911784@gmail.com
 
 ## 🌐Socials
