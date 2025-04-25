@@ -14,4 +14,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk2105&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sk2105&icon=7&color=11)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=sk2105&color=green&style=flat-square)
