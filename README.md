@@ -1,7 +1,9 @@
-# 💫About Me:  
-🌱 At the moment, I am actively engaged in learning Jetpack Compose, which is a modern toolkit for building native UI in Android applications, along with Spring Boot, a powerful framework for creating Java-based web applications.  
-💬 If you have any questions or need assistance with Android development, the intricacies of Jetpack Compose, SQL databases, or even React.js for web development, please don't hesitate to contact me. I would be more than happy to share my knowledge and help you out.  
-📫 You can easily reach me by email at s.kumar911784@gmail.com. I look forward to connecting with you!
+# ✨ Hey there! A little about me:
+🌱 I'm diving into Jetpack Compose to make awesome Android apps and exploring Spring Boot for building cool Java web apps.
+
+💬 Got questions about Android development, Jetpack Compose, SQL databases, or React.js? I'm happy to help! Ask away!
+
+📫 Shoot me an email at s.kumar911784@gmail.com. I'd love to chat!
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g_sachin91) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachink91) 
