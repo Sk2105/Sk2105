@@ -3,8 +3,6 @@ As a passionate Android developer, I am currently pursuing a BCA (Bachelor of Co
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk2105&label=Profile%20views&color=0e75b6&style=flat" alt="sk2105" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk2105" alt="sk2105" /></a> </p>
-
 - 🌱 I’m currently learning **Jetpack compose**
 
 - 💬 Ask me about **jetpack compose, react-native and spring boot.**
